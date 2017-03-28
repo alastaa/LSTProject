@@ -1,10 +1,4 @@
-# File: fixations0102.txt
-# Created: 23. maaliskuuta 2017,8:38:18
-# with: OGAMA Version: 5.0.5614
-# Contents: GazeFixations table.
-# Applies to Projekt:testdata
-#
-ID	SubjectName	TrialID	TrialSequence	CountInTrial	StartTime	Length	PosX	PosY	SubjectCategory	Age	Sex	Handedness	Comments	Trial Name	Trial Category	SlideNr	AOI	AOI group	
+ID	SubjectName	TrialID	TrialSequence	CountInTrial	StartTime	Length	PosX	PosY	SubjectCategory	Age	Sex	Handedness	Comments	Trial Name	Trial Category	SlideNr	AOI	AOI group
 1	S0102	0	0	1	0	176	950,355102539063	535,231506347656						KF_001.jpg		0	nowhere	nowhere	
 2	S0102	0	0	2	202	148	982,852111816406	258,612030029297						KF_001.jpg		0	fkf01	nowhere	
 3	S0102	0	0	3	396	136	394,033294677734	744,484008789063						KF_001.jpg		0	lkf1	nowhere	

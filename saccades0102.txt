@@ -1,10 +1,4 @@
-# File: saccades0102.txt
-# Created: 23. maaliskuuta 2017,8:34:52
-# with: OGAMA Version: 5.0.5614
-# Contents: GazeFixations table.
-# Applies to Projekt:shiiiboi
-#
-SubjectName	TrialID	TrialSequence	CountInTrial	StartTime	Duration	Distance	Velocity	Validity	SubjectCategory	Age	Sex	Handedness	Comments	Trial Name	Trial Category	SlideNr	Saccade Target AOI	Saccade Target AOI group	
+SubjectName	TrialID	TrialSequence	CountInTrial	StartTime	Duration	Distance	Velocity	Validity	SubjectCategory	Age	Sex	Handedness	Comments	Trial Name	Trial Category	SlideNr	Saccade Target AOI	Saccade Target AOI group
 S0102	0	0	1	176	26	278,5218	10,71238	0						KF_001.jpg		0	fkf01	nowhere	
 S0102	0	0	2	350	46	763,3998	16,59565	0						KF_001.jpg		0	lkf1	nowhere	
 S0102	0	0	3	532	20	238,6492	11,93246	0						KF_001.jpg		0	lkf1	nowhere	
