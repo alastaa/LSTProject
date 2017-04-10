@@ -1,4 +1,4 @@
-SubjectName;TrialID;TrialSequence;CountInTrial;StartTime;Duration;Distance;Velocity;Validity;SubjectCategory;Age;Sex;Handedness;Trial Name;Saccade Target AOI;AOI group
+SubjectName;TrialID;TrialSequence;CountInTrial;StartTime;Duration;Distance;Velocity;Validity;SubjectCategory;Age;Sex;Handedness;TrialName;SaccadeTargetAOI;AOIgroup
 S3001;0;0;1;350;36;743,1949;20,6443;0;;;;;KF_001.jpg;lkf1;logo
 S3001;0;0;2;552;10;71,97677;7,197677;0;;;;;KF_001.jpg;lkf1;logo
 S3001;0;0;3;784;10;124,5703;12,45703;0;;;;;KF_001.jpg;lkf1;logo
